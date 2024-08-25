@@ -1,0 +1,8 @@
+price = m1*area + m2*bedrooms +m3*age + c
+features = area, bedrooms, age
+mi = coefficient
+c = ingtercept
+
+Topics
+data preprocessing : handling null value 
+linear regresssion using multiple variable
